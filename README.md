@@ -1,2 +1,1 @@
-# 30-Days-Kaggle
-30-Days-Kaggle-Challenge
+# 30-Days-Kaggle-Challenge
