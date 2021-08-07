@@ -21,6 +21,6 @@ Kaggle contains the Datasets,Codes,Competition,Courses and Discussion sections.
 #### 3. Competitions
    The globally hosted competition are taken here with a cash-prizes and also a prizes of swags and like more than thousands of teams are participate in the competitions. These competition are offered by every compnaies and orgaziations like( Google, Facebook , etc).
 #### 4. Courses
-
+   Kaggle offered so many courses related to the Machine Learning and Data Science. You can learn these skill by doing a excercises and learnt the theory of course.
 #### 5. Discussion
-
+   To disscus about your problems,projects,codes,dataset.This is all open discussion form that everyone is looking into it and participate.
