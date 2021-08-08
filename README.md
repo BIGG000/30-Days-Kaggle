@@ -30,4 +30,4 @@ Kaggle contains the Datasets,Codes,Competition,Courses and Discussion sections.
 In this Repo, I'll update all the days of my kaggle work with the Excercise and all the stuff I'll learn during this 30 Days Challenge.
 
 
-[x] **Day 01** Getting Started with the [Kaggle](https://www.kaggle.com/) and Complete lesson 01,02,03 from [Python Course](https://www.kaggle.com/learn/python) 
+ -[x] **Day 01** Getting Started with the [Kaggle](https://www.kaggle.com/) and Complete lesson 01,02,03 from [Python Course](https://www.kaggle.com/learn/python) 
