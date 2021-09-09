@@ -43,3 +43,13 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 ## 30Days Of Kaggle
 
 - [x] **Day 01** Getting Started with the [Kaggle](https://www.kaggle.com/) and Complete lesson 01,02,03 from [Python Course](https://www.kaggle.com/learn/python) 
+- [x] **Day 02** Complete the lesson 04,05 of Python Course from the Kaggle.
+- [x] **Day 03** Complete the lesson 06,07 of Python Course from the Kaggle.
+- [x] **Day 04** Get into the competition of kaggle to participate in the challenge problem.
+- [x] **Day 05** Started the Intro to Machine Learning Course and complete the lesson 01, 02.
+- [x] **Day 06** Participate in the Kaggle Dataset to getting the HandsOn in the Machine Learning.
+- [x] **Day 07** Complete the lesson 03,04 from the Intro to Machine Learning course.
+- [x] **Day 08** Complete the lesson 05,06,07 and completed the whole course Intro to Machine Learning.
+- [x] **Day 09** Participate in the competition to get the working with the real-data to explore the Machine Learning concepts with data.
+- [x] **Day 10** Started the new Course Intermediate with Machine learning and done with the lesson 01,02 and 03. 
+ 
