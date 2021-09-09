@@ -55,5 +55,6 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 - [x] **Day 11** Complete the course lesson 04 and 05 of Intermediate with Machine learning.
 - [x] **Day 12** Completed the course of Intermediate with Machine Learning with lesson 06 and 07.
 - [x] **Day 13** Compete in the competition of Kaggle for the contribution on project.
-- [ ] 
+- [x] **Day 14** Now contributing on the different dataset and competition project for the practice with real data and secenrios.
+- [x]
  
