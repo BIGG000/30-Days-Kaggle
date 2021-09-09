@@ -53,5 +53,5 @@ On top of all of this, you’ll have the opportunity to attend elective workshop
 - [x] **Day 09** Participate in the competition to get the working with the real-data to explore the Machine Learning concepts with data.
 - [x] **Day 10** Started the new Course Intermediate with Machine learning and done with the lesson 01,02 and 03. 
 - [x] **Day 11** Complete the course lesson 04 and 05 of Intermediate with Machine learning.
-- [ ] 
+- [x] **Day 12** Completed the course of Intermediate with Machine Learning with lesson 06 and 07.
  
